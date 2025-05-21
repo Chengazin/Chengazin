@@ -3,16 +3,11 @@
   Ментор в школе программирования, frontend-разработчик и будущий создатель IT-школы 🎓
 </p>
 
----
-
 ### 🧠 Обо мне
 
-- 💻 Изучаю: Vue 3, TypeScript, Node.js
-- 🧑‍🏫 Преподаю Python, алгоритмы и основы программирования
-- 🎯 Мои цели: закончить колледж, отслужить в армии и построить карьеру в IT
-- 🛠️ Проекты: чат-бот для образовательного сайта, курсы C++, Prop Hunt на Unity, EduConnect
-
----
+- 💻 Изучаю: Vue 3, Laravel, Node.js
+- 🧑‍🏫 Преподаю Python в It-школе, алгоритмы и основы программирования
+- 🎯 Мои цели: закончить колледж и построить карьеру в IT
 
 ### 🚀 Технологии и стек
 
@@ -26,20 +21,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
----
-
-### 📈 GitHub Статистика
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=github_dark&hide=issues"/>
-</p>
-
----
-
 ### 📫 Контакты
 
-- Telegram: [@твой_ник](https://t.me/твой_ник)
-- Почта: `example@gmail.com`
-- Discord: `alexdev#1234`
-
----
+- Telegram: (https://t.me/chingazin)
+- Почта: xolodilov06@mail.ru
